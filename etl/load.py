@@ -1,10 +1,10 @@
 from sqlalchemy import create_engine, exc
 import pandas as pd
 
-pg_username = 'postgres'
-pg_password = 'posgres1234'
-pg_host = 'localhost'
-pg_port = '5432'
+pg_username = 'dummy'
+pg_password = 'dummy'
+pg_host = 'dummy'
+pg_port = 'dummy'
 pg_database = 'sales_sep_dec_2019'
 
 

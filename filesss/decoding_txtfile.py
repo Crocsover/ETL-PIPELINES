@@ -18,7 +18,7 @@ def decode(messaged_file):
     # Sort the dictionary by keys in ascending order
     sorted_dict = dict(sorted(my_dict.items()))
 
-    # Initialize an empty list to store the values associated with the end of each row
+    # Initialize an empty list 
     row_values_list = []
 
     # Get the end of each row in the half pyramid
